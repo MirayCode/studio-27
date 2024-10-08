@@ -75,3 +75,18 @@ em3 {
 em4 {
   color: red;
 }
+
+.brand_margin {
+  margin-top: 7rem;
+  margin-bottom: 7rem;
+}
+
+.border_black {
+  border: solid black 5px;
+  padding: 3rem;
+}
+
+.image_position {
+  position: relative;
+  bottom: 3rem;
+}
