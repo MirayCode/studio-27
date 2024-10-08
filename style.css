@@ -83,10 +83,10 @@ em4 {
 
 .border_black {
   border: solid black 5px;
-  padding: 3rem;
+  padding: 4rem;
 }
 
 .image_position {
   position: relative;
-  bottom: 3rem;
+  bottom: 2rem;
 }
