@@ -24,6 +24,9 @@ p {
   padding: 0 20rem 2rem 20rem;
 }
 
+.p3 {
+  text-align: center;
+}
 .border_dark {
   border-style: 2px;
 }
@@ -89,4 +92,10 @@ em4 {
 .image_position {
   position: relative;
   bottom: 2rem;
+}
+
+.seo {
+  text-align: center;
+  border-top: solid black 2px;
+  padding: 2rem 8rem;
 }
