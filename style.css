@@ -13,6 +13,10 @@ h1 {
   font-weight: bold;
   padding: 2rem;
 }
+
+.h1_3 {
+  font-size: 50px;
+}
 p {
   text-align: justify;
   line-height: normal;
@@ -98,4 +102,8 @@ em4 {
   text-align: center;
   border-top: solid black 2px;
   padding: 2rem 8rem;
+}
+
+.padding_review {
+  padding: 3rem;
 }
