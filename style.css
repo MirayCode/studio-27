@@ -61,6 +61,7 @@ p {
 
 .grey_background {
   background-color: #d9d9d9;
+  padding: 2rem;
 }
 
 em1 {
@@ -101,9 +102,15 @@ em4 {
 .seo {
   text-align: center;
   border-top: solid black 2px;
-  padding: 2rem 8rem;
+  padding: 5rem;
 }
 
 .padding_review {
   padding: 3rem;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
 }
