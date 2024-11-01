@@ -39,32 +39,6 @@ p {
   max-width: 100%;
 }
 
-/*Sivi widget na homepage-u*/
-.grey_background {
-  background-color: #eeee;
-  padding: 2rem;
-}
-
-em1 {
-  font-weight: bold;
-}
-
-em2 {
-  font-weight: bold;
-  color: #ff9b21;
-}
-
-em3 {
-  font-weight: bold;
-  color: #65b65a;
-  text-decoration: underline;
-  font-style: italic;
-}
-
-em4 {
-  color: red;
-}
-
 /*Brand widget*/
 .brand_margin {
   margin-top: 7rem;
