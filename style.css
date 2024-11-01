@@ -34,31 +34,12 @@ p {
 .border_dark {
   border-style: 2px;
 }
-.no_padding {
-  padding: 0;
-}
 
 .container {
   max-width: 100%;
 }
 
-.center {
-  align-items: center;
-}
-
-.right {
-  border: solid black 5px;
-  transform: translate(-10%);
-  padding: 3rem;
-  -webkit-transform: translate(-10%);
-  -moz-transform: translate(-10%);
-  -ms-transform: translate(-10%);
-  -o-transform: translate(-10%);
-}
-.left {
-  margin-left: -50px;
-}
-
+/*Sivi widget na homepage-u*/
 .grey_background {
   background-color: #eeee;
   padding: 2rem;
@@ -84,6 +65,7 @@ em4 {
   color: red;
 }
 
+/*Brand widget*/
 .brand_margin {
   margin-top: 7rem;
   margin-bottom: 7rem;
