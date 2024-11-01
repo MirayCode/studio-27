@@ -137,4 +137,5 @@ ul.no-bullets {
 
 .nav {
   --bs-nav-link-color: black;
+  --bs-nav-link-hover-color: none;
 }
