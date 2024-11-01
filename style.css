@@ -134,3 +134,7 @@ ul.no-bullets {
 .nav-button {
   padding: 0 50px 0 0;
 }
+
+.nav {
+  --bs-nav-link-color: black;
+}
