@@ -118,3 +118,9 @@ ul.no-bullets {
 .width_footer {
   width: revert;
 }
+
+.nav {
+  padding: 1rem;
+  border: solid black 1px;
+  background-color: #ffffff;
+}
