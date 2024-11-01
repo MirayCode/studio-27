@@ -22,3 +22,7 @@ em3 {
 em4 {
   color: red;
 }
+
+.btn_padding {
+  padding: 0 0 1rem 0;
+}
