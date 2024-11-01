@@ -1,34 +1,45 @@
 .btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  border: black;
   background-color: black;
   color: white;
-  border-radius: 0;
-  border: solid black;
+  font-size: 16px;
   font-weight: bold;
-  padding: 5px 45px 5px 45px;
+  border-radius: 0px;
+  min-width: 100px;
+  min-height: 50px;
 }
 
 .btn-primary:hover {
   background-color: #d9d9d9;
   color: black;
-  border-color: #d9d9d9;
   font-weight: bold;
 }
 
 .btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  border: none;
   background-color: #d9d9d9;
   color: black;
-  border-radius: 0;
-  border: solid #d9d9d9;
+  font-size: 16px;
   font-weight: bold;
-  padding: 5px 45px 5px 45px;
+  border-radius: 0px;
+  min-width: 100px;
+  min-height: 50px;
 }
 
 .btn-secondary:hover {
   background-color: black;
   color: white;
-  border: solid black;
   font-weight: bold;
 }
+
 .btn_padding {
   padding-bottom: 2rem;
 }
