@@ -118,24 +118,3 @@ ul.no-bullets {
 .width_footer {
   width: revert;
 }
-
-.nav1 {
-  background-color: #ffffff;
-  border: solid 1px;
-  padding: 1.5rem;
-}
-
-.logo {
-  width: 75%;
-  height: auto;
-  padding: 0 0 0 50px;
-}
-
-.nav-button {
-  padding: 0 50px 0 0;
-}
-
-.nav {
-  --bs-nav-link-color: black;
-  --bs-nav-link-hover-color: none;
-}
