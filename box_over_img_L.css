@@ -1,0 +1,8 @@
+.border_black {
+  border: solid black 5px;
+  padding: 3rem;
+}
+
+.button-group {
+  margin: 1rem 0 0 0;
+}

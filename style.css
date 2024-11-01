@@ -9,6 +9,7 @@ body {
 .p3 {
   text-align: center;
 }
+
 .border_dark {
   border-style: 2px;
 }
@@ -21,16 +22,6 @@ body {
 .brand_margin {
   margin-top: 7rem;
   margin-bottom: 7rem;
-}
-
-.border_black {
-  border: solid black 5px;
-  padding: 4rem;
-}
-
-.image_position {
-  position: relative;
-  bottom: 2rem;
 }
 
 .seo {
