@@ -1,7 +1,17 @@
 .padding_review {
-  padding: 3rem;
+  padding: 5rem;
 }
 
 .background {
   background-color: #d9d9d9;
+}
+
+.img_position {
+  position: relative;
+  z-index: 2;
+}
+
+.bg_position {
+  position: relative;
+  z-index: 1;
 }
