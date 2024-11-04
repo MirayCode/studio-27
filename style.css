@@ -6,16 +6,8 @@ body {
   font-size: 50px;
 }
 
-.p3 {
-  text-align: center;
-}
-
 .border_dark {
   border-style: 2px;
-}
-
-.container {
-  max-width: 100%;
 }
 
 /*Brand widget*/
