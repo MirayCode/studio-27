@@ -6,3 +6,9 @@
 .padding-brand {
   padding: 0 10rem 0 0;
 }
+
+.img_brand {
+  width: 75%;
+  margin: auto;
+  display: block;
+}
