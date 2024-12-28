@@ -6,12 +6,13 @@ ul.no-bullets {
 
 .width_footer {
   width: 70%;
-  padding-top: 1rem;
+  padding-top: 2rem;
 }
 
 .width_footer_icons {
   width: 20%;
   padding: 0.5rem;
+  margin-top: 2rem;
 }
 
 .padding_footer {
@@ -24,4 +25,5 @@ ul.horizontal-list {
   padding: 0;
   display: flex;
   white-space: pre;
+  margin-top: 2rem;
 }
