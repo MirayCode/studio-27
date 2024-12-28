@@ -27,3 +27,7 @@ ul.horizontal-list {
   white-space: pre;
   margin-top: 2rem;
 }
+
+.line {
+  border-right: solid white 1px;
+}
