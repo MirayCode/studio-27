@@ -12,3 +12,7 @@
   margin: auto;
   display: block;
 }
+
+.padding_space {
+  padding-left: 3rem;
+}
