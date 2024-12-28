@@ -1,5 +1,13 @@
 .seo {
   text-align: center;
-  border-top: solid black 2px;
   padding: 5rem;
+  margin-top: 5rem;
+}
+.p_seo {
+  text-align: center;
+}
+
+.border_top {
+  border-top: 2px solid black;
+  padding-top: 3rem;
 }
