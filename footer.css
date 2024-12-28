@@ -17,3 +17,11 @@ ul.no-bullets {
 .padding_footer {
   padding-left: 4rem;
 }
+
+ul.horizontal-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  white-space: pre;
+}
