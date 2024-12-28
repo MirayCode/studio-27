@@ -10,5 +10,10 @@ ul.no-bullets {
 }
 
 .width_footer_icons {
-  width: revert;
+  width: 20%;
+  padding: 0.5rem;
+}
+
+.padding_footer {
+  padding-left: 4rem;
 }
