@@ -5,3 +5,35 @@ body {
 .h1_3 {
   font-size: 50px;
 }
+
+ul.leaders {
+  padding: 0;
+}
+ul.leaders li {
+  display: table;
+}
+ul.leaders li span {
+  display: table-cell;
+}
+ul.leaders li span:first-child {
+  /* TITLE */
+  position: relative;
+  overflow: hidden; /* Don't go underneath the price */
+}
+ul.leaders li span:first-child:after {
+  /* DASHES */
+  content: "";
+  position: absolute;
+  bottom: 0.5em; /* Set as you want */
+  margin-left: 0.5em; /* Keep same for the next span's left padding */
+  width: 100%;
+  border-bottom: 1px dotted #000;
+}
+ul.leaders li span + span {
+  /* PRICE */
+  text-align: right;
+  width: 1%; /* Trick it */
+  vertical-align: bottom; /* Keep Price text bottom-aligned */
+  padding-left: 0.5em;
+  /* white-space: nowrap;       /* Uncomment if needed */
+}
