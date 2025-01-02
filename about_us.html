@@ -20,7 +20,11 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+        <!-- Slajder JS -->
+        <script type="text/javascript" src="https://unpkg.com/@glidejs/glide@3.7.1/dist/glide.js"></script>
     </head>
+
     <body>
         <!-- Header/Navigation --><nav class="navbar container-xxl mt-2 header-style">
             <div class="row">
@@ -80,6 +84,21 @@
                     <h1 class="h1_2">Hair-coloring</h1>
                     <p class="p2">Lorem ipsum dolor sit amet consectetur. In nulla morbi massa donec at eget. Nisi urna id amet ut semper ullamcorper dictum est magna. Sed tempus pellentesque dui duis sagittis tristique pharetra aliquet sed. At at magna pharetra pulvinar neque morbi nunc id. Gravida mattis quis magna ut adipiscing lobortis amet. Mauris at venenatis sed dignissim quam id. Ac posuere dui nibh purus risus lectus. Quis nisl lacus magna aenean.</p>
                 </div>
+            </div>
+        </div>
+
+        <!-- Staviti slajder -->
+        <div class="glide">
+            <div class="glide__track" data-glide-el="track">
+                <ul class="glide__slides">
+                    <li class="glide__slide">0</li>
+                    <li class="glide__slide">1</li>
+                    <li class="glide__slide">2</li>
+                </ul>
+            </div>
+            <div data-glide-el="controls">
+                <button data-glide-dir="<<">Start</button>
+                <button data-glide-dir=">>">End</button>
             </div>
         </div>
 
@@ -172,5 +191,9 @@
             </div>
 
         </footer>
+
+        <script>
+            new Glide('.glide').mount()
+        </script>
     </body>
 </html>
