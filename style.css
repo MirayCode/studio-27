@@ -37,3 +37,12 @@ ul.leaders li span + span {
   padding-left: 0.5em;
   /* white-space: nowrap;       /* Uncomment if needed */
 }
+
+.border_style {
+  border-style: solid;
+  padding: 4rem 3rem 0 3rem;
+}
+
+.no_padding {
+  padding: 0;
+}
