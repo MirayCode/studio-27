@@ -46,3 +46,9 @@ ul.leaders li span + span {
 .no_padding {
   padding: 0;
 }
+
+.h1_4 {
+  text-align: start;
+  padding: 0;
+  font-size: 40px;
+}
