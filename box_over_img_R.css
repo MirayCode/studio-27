@@ -6,6 +6,7 @@ h1 {
 p {
   text-align: justify;
   line-height: normal;
+  margin: 1rem 0 0 0;
 }
 .no_padding {
   padding: 0;
