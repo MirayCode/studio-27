@@ -57,3 +57,7 @@ ul.leaders li span + span {
   max-width: 600px;
   margin: 0 auto;
 }
+
+.top_margin {
+  margin-top: 1.2rem;
+}
