@@ -53,6 +53,11 @@ ul.leaders li span + span {
   font-size: 40px;
 }
 
+.h1_5 {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
 .carousel_size {
   max-width: 600px;
   margin: 0 auto;
