@@ -23,3 +23,7 @@
   --bs-accordion-active-color: black;
   --bs-accordion-active-bg: white;
 }
+
+.margin_bottom {
+  margin-bottom: 1rem;
+}
